@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Northstar PM Chatbot": {
+      "command": "/path/to/repo/.venv/bin/python",
+      "args": ["/path/to/repo/mcp_server.py"]
+    }
+  }
+}

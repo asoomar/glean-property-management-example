@@ -1,0 +1,66 @@
+{
+  "datasource": "interviewds6",
+  "object_type": "Article",
+  "documents": [
+    {
+      "id": "northstar-standard-lease-terms",
+      "title": "Standard Lease Terms",
+      "filename": "01_standard_lease_terms.md",
+      "view_url": "https://northstarpm.example.com/docs/01_standard_lease_terms"
+    },
+    {
+      "id": "northstar-application-screening-criteria",
+      "title": "Application and Screening Criteria",
+      "filename": "02_application_screening_criteria.md",
+      "view_url": "https://northstarpm.example.com/docs/02_application_screening_criteria"
+    },
+    {
+      "id": "northstar-resident-onboarding-move-in-process",
+      "title": "Resident Onboarding and Move-In Process",
+      "filename": "03_resident_onboarding_move_in_process.md",
+      "view_url": "https://northstarpm.example.com/docs/03_resident_onboarding_move_in_process"
+    },
+    {
+      "id": "northstar-rent-payments-fees-collections",
+      "title": "Rent Payments, Fees, and Collections",
+      "filename": "04_rent_payments_fees_and_collections.md",
+      "view_url": "https://northstarpm.example.com/docs/04_rent_payments_fees_and_collections"
+    },
+    {
+      "id": "northstar-maintenance-service-levels",
+      "title": "Maintenance Service Levels and Work Order Policy",
+      "filename": "05_maintenance_service_levels.md",
+      "view_url": "https://northstarpm.example.com/docs/05_maintenance_service_levels"
+    },
+    {
+      "id": "northstar-pet-animal-assistance-animal-policy",
+      "title": "Pet, Animal, and Assistance Animal Policy",
+      "filename": "06_pet_animal_and_assistance_animal_policy.md",
+      "view_url": "https://northstarpm.example.com/docs/06_pet_animal_and_assistance_animal_policy"
+    },
+    {
+      "id": "northstar-community-rules-lease-violations",
+      "title": "Community Rules and Lease Violations",
+      "filename": "07_community_rules_and_lease_violations.md",
+      "view_url": "https://northstarpm.example.com/docs/07_community_rules_and_lease_violations"
+    },
+    {
+      "id": "northstar-move-out-deposit-accounting",
+      "title": "Move-Out, Inspections, and Deposit Accounting",
+      "filename": "08_move_out_deposit_accounting.md",
+      "view_url": "https://northstarpm.example.com/docs/08_move_out_deposit_accounting"
+    },
+    {
+      "id": "northstar-fair-housing-reasonable-accommodations",
+      "title": "Fair Housing and Reasonable Accommodation Policy",
+      "filename": "09_fair_housing_reasonable_accommodations.md",
+      "view_url": "https://northstarpm.example.com/docs/09_fair_housing_reasonable_accommodations"
+    },
+    {
+      "id": "northstar-property-management-operations-sop",
+      "title": "Property Management Operations SOP",
+      "filename": "10_property_management_operations_sop.md",
+      "view_url": "https://northstarpm.example.com/docs/10_property_management_operations_sop"
+    }
+  ]
+}
